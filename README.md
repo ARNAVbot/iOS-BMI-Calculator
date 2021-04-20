@@ -1,5 +1,4 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 #  BMI Calculator
 
@@ -13,15 +12,14 @@ By the end of the module, you will have made a Body Mass Index calculator. Based
 
 ## What you will learn
 
-* How to create multi-screen apps with animated navigation.
+* How to create multi-screen apps using Seagues with animated navigation.
 * Optional binding, optional chaining and the nil coalescing operator.
 * How to create classes and difference between classes and structs. 
 * Pass by value vs. pass by reference. 
 * Formatting Strings. 
 * Color literals.
+* Use UISliders
+* Create ui's programatically without the use of storyboard.
 
 
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
+### For tutorial video, refer here -> https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16253370#overview (Videos 119-131)
