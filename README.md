@@ -19,7 +19,8 @@ By the end of the module, you will have made a Body Mass Index calculator. Based
 * Formatting Strings. 
 * Color literals.
 * Use UISliders
-* Create ui's programatically without the use of storyboard.
+* How to create segue's and use them to navigate between screens. 
+* See prepare method in CalculateViewController . This method is called when a segue has already been called (line 60) and the new controller is just about to open. But before that we need to pass some values to the new controller which we do on this method. 
 
 
 ### For tutorial video, refer here -> https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16253370#overview (Videos 119-131)
